@@ -1,0 +1,3 @@
+C:\Users\ylldr\source\repos\müksayı\müksayı\obj\Debug\netcoreapp3.1\müksayı.AssemblyInfoInputs.cache
+C:\Users\ylldr\source\repos\müksayı\müksayı\obj\Debug\netcoreapp3.1\müksayı.AssemblyInfo.cs
+C:\Users\ylldr\source\repos\müksayı\müksayı\obj\Debug\netcoreapp3.1\müksayı.csproj.CoreCompileInputs.cache
